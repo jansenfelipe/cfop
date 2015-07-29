@@ -1,6 +1,6 @@
-# CFOP (Código Fiscal de Operação e Prestação)
+# CFOP
 
-O objetivo desse repositório é dipor a lista atualizada de CFOP.
+O objetivo desse repositório é dipor a lista atualizada de CFOP (Código Fiscal de Operação e Prestação).
 
 Atualmente está sendo mantida no formato .csv
 
