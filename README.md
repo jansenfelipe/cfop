@@ -16,7 +16,7 @@ $ composer require jansenfelipe/cfop
 ### NPM 
 
 ```shell
-$ npm install cfop
+$ npm install jansenfelipe-cfop
 ```
 
 ### Licence
