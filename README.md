@@ -4,7 +4,7 @@ O objetivo desse repositório é dipor a lista atualizada de CFOP (Código Fisca
 
 Atualmente está sendo mantida no formato .csv
 
-Download: [https://github.com/jansenfelipe/cfop/blob/master/cfop.csv](cfop.csv)
+Download: [https://raw.githubusercontent.com/jansenfelipe/cfop/1.0/cfop.csv](cfop.csv)
 
 ### Composer 
 
