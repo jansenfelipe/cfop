@@ -1,6 +1,7 @@
 # CFOP
+[![MIT license](https://img.shields.io/dub/l/vibe-d.svg)](http://opensource.org/licenses/MIT)
 
-O objetivo desse repositório é dipor a lista atualizada de CFOP (Código Fiscal de Operação e Prestação).
+O objetivo desse repositório é dispor a lista atualizada de CFOP (Código Fiscal de Operação e Prestação).
 
 Atualmente está sendo mantida no formato .csv
 
